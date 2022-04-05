@@ -1,0 +1,2 @@
+# PythonProject
+Python magical codes 
